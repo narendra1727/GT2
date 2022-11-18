@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    margin-left: 10vw;
+    font-size: 15px;
+}
+
+th{
+    background-color: rgb(27, 27, 27);
+    color: whitesmoke;
+}
+
+tr:hover{
+    background-color: rgb(232, 230, 230);
+}
